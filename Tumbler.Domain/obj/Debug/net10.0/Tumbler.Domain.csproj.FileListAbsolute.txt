@@ -1,0 +1,11 @@
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\bin\Debug\net10.0\Tumbler.Domain.deps.json
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\bin\Debug\net10.0\Tumbler.Domain.dll
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\bin\Debug\net10.0\Tumbler.Domain.pdb
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\Tumbler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\Tumbler.Domain.AssemblyInfoInputs.cache
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\Tumbler.Domain.AssemblyInfo.cs
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\Tumbler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\Tumbler.Domain.dll
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\refint\Tumbler.Domain.dll
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\Tumbler.Domain.pdb
+C:\Users\ihrkac\RiderProjects\Tumbler\Tumbler.Domain\obj\Debug\net10.0\ref\Tumbler.Domain.dll
